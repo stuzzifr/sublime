@@ -1,0 +1,47 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 2,
+	"caret_extra_width": 1,
+	"caret_style": "solid",
+	"color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
+	"detect_indentation": true,
+	"font_size": 7.8,
+	"hide_snippets_on_completion": "true",
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Codeigniter Codeintel Helper",
+		"Dayle Rees Color Schemes",
+		"Debug Killer",
+		"Schemr",
+		"SublimeREPL",
+		"Tomorrow Color Schemes"
+	],
+	"rulers":
+	[
+		80
+	],
+	"pep8_ignore":
+	[
+		"E501",
+		"E701",
+		"E401",
+		"E303",
+		"W293",
+		"W391"
+	],
+	"pep8_max_line_length": 80,
+	"show_encoding": true,
+	"spell_check": false,
+	"sublime_completions_visibility": "jedi",
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true
+}

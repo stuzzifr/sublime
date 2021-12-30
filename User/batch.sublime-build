@@ -1,0 +1,8 @@
+{
+	"shell_cmd": "$file",
+	"selector": "source.dosbatch"
+}
+
+"shell_cmd": "$file",
+
+(file) 

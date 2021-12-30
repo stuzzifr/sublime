@@ -1,0 +1,32 @@
+ {
+
+	// "python_interpreter_path": "C:/Python27/python.exe",
+
+	// "python_package_paths": [
+	// 		"C:/Program Files/Autodesk/Maya2018/devkit/other/pymel/extras/completion/py",
+	// 		"C:/Program Files/Autodesk/Maya2018/Python/Lib/site-packages",
+	// 		"C:/Python27/Lib/site-packages",
+	// ],
+
+	// "auto_complete_function_params": "all",
+	// "sublime_completions_visibility": "required",
+
+ //    "auto_complete_triggers": [{"selector": "source.python", "characters": "."}],
+ //    "auto_complete_selector": ".",
+
+
+
+ //    "logging_enable_on_startup": true,
+ //    "logging_use_basicConfig": true,
+ //    "logging_root_level": "DEBUG",
+ //    "logging_console_enabled": true,
+ //    "logging_console_level": "INFO",     // Only print warning log messages in the console.
+ //    "logging_file_enabled": true,
+ //    "logging_file_level": "DEBUG",
+ //    "logging_file_datefmt": null,
+ //    "logging_file_fmt": "%(asctime)s %(levelname)-6s - %(name)s:%(lineno)s - %(funcName)s() - %(message)s",
+ //    "logging_file_path": "/tmp/sublime_output.log",
+ //    "logging_file_rotating": false,
+ //    "logging_file_clear_on_reset": false
+
+ }

@@ -1,0 +1,8 @@
+{
+		"font_size": 7.5,
+
+    "gutter": true,
+    "draw_centered": true,
+    "word_wrap": false,
+    "scroll_past_end": true
+}

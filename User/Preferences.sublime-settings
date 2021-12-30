@@ -1,0 +1,64 @@
+{
+
+	"auto_complete": true,
+    "auto_complete_commit_on_tab": false,
+
+	"mini_auto_complete": true,
+	"auto_complete_use_history": false,
+
+	 // "auto_complete_selector": ".",
+
+	// "auto_complete_delay": 1,
+
+	// "auto_complete_triggers":
+	// [
+	// 	{
+	// 		"characters": ".",
+	// 		"selector": "source.python",
+	// 	}
+	// ],
+
+
+	// "theme": "auto",
+	// "dark_theme": "Packages/User/stuzzi (Flake8Lint).tmTheme",
+	// "light_theme": "default",
+	"color_scheme": "Packages/User/stuzzi (Flake8Lint).tmTheme",
+
+	"file_tab_style":"rounded",
+
+	"always_show_minimap_viewport": true,
+	"font_size": 8,
+	"gutter": true,
+	"ignored_packages":
+	[
+		//ignore for now, will need to find a solution
+		"SublimeCodeIntel",
+		"sublimecodeintel",
+		"SublimeLinter",
+	],
+
+	"mini_diff": false,
+	"rulers":
+	[
+		79
+	],
+
+	// "settings":
+	// {
+	// 	"python_interpreter_path": "C:/Python27/python.exe",
+	// 	"python_package_paths":
+	// 	[
+	// 		"C:/Program Files/Autodesk/Maya2018/Python/Lib/site-packages",
+	// 		"C:/Python27/Lib/site-packages",
+	// 		"C:/Program Files/Autodesk/Maya2018/devkit/other/pymel/extras/completion/py"
+	// 	],
+	// },
+
+	"sublime.log_commands": true,
+	"strip_whitespace_lines_on_save": true,
+	"theme": "Argonaut.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+}

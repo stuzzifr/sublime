@@ -1,0 +1,5 @@
+{
+	"working_dir": "${file_path}/../",
+	"cmd": ["brownie", "run", "$file"],
+	"shell":true,
+}

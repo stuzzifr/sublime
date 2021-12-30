@@ -1,0 +1,32 @@
+{
+	// "python_interpreter" : "C:/Python37/python3.exe",
+	// "anaconda_linter_underlines": true,
+	// "anaconda_linter_mark_style": "none",
+
+	// "auto_complete": true,
+    // "auto_complete_commit_on_tab": true,
+
+    // "swallow_startup_errors": true,
+    // "anaconda_linting": false,
+
+
+    "python_interpreter": "C:\\Python27\\python.exe",
+    "anaconda_debug": true,
+
+    // not sure weither it helps
+   "extra_paths":
+    [
+        "C:/Program Files/Autodesk/Maya2018/devkit/other/pymel/extras/completion/py"
+    ],
+
+
+
+	"pep8_ignore":
+[
+    "E401",
+    "E303",
+
+]
+
+}
+

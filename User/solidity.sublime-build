@@ -1,0 +1,5 @@
+{
+	"cmd" : ["deploy.py","$file"] ,
+	"shell":true,
+	"selector": "source.solidity"
+}

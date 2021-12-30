@@ -1,0 +1,34 @@
+
+// {
+
+//     "codeintel_live": false,
+//     "codeintel": false,
+
+
+//     "codeintel_language_settings": {
+//         "Python3": {
+//             "python": "C:/Python27/python.exe",
+//             "codeintel_scan_extra_dir": [
+//                 // "C:/Python27/Lib/site-packages",
+// 	            // "C:/Python37/Lib/site-packages",
+
+//             ],
+//             "codeintel_scan_files_in_project": true,
+//             "codeintel_selected_catalogs": []
+//         },
+//         "JavaScript": {
+//             "codeintel_scan_extra_dir": [],
+//             "codeintel_scan_exclude_dir":["/build/", "/min/"],
+//             "codeintel_scan_files_in_project": false,
+//             "codeintel_max_recursive_dir_depth": 2,
+//             "codeintel_selected_catalogs": ["jQuery"]
+//         },
+//         "PHP": {
+//             "php": "/Applications/MAMP/bin/php/php5.5.3/bin/php",
+//             "codeintel_scan_extra_dir": [],
+//             "codeintel_scan_files_in_project": true,
+//             "codeintel_max_recursive_dir_depth": 15,
+//             "codeintel_scan_exclude_dir":["/Applications/MAMP/bin/php/php5.5.3/"]
+//         }
+//     }
+// }

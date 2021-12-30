@@ -1,0 +1,70 @@
+//stu key binding
+[
+
+
+
+{ "keys": ["alt+`"], "command": "zi_mayalog" },
+
+{ "keys": ["ctrl+alt+space"], "command": "zi_reload_maya" },
+{ "keys": ["shift+alt+p"], "command": "prompt_select_workspace" },
+{ "keys": ["ctrl+alt+'"], "command": "zi_comment" },
+{ "keys": ["ctrl+f"], "command": "zi_docstring" },
+{ "keys": ["ctrl+'"], "command": "zi_quote" },
+
+{ "keys": ["ctrl+enter"], "command": "send_to_maya" },
+
+{ "keys": ["`"], "command": "show_overlay", "args": {"overlay": "goto","show_files": true} },
+
+// pylint check in console
+{ "keys": ["alt+="], "command": "zi_style", "args":{}, "context":
+    [ { "key": "selector", "operator": "equal", "operand": "source.python" } ]
+},
+
+
+// format keys
+{ "keys": ["ctrl+="], "command": "auto_pep8", "args":{"preview":false}, "context":
+    [ { "key": "selector", "operator": "equal", "operand": "source.python" } ]
+},
+
+{ "keys": ["ctrl+="], "command": "reindent", "args":{"preview":false, "single_line":false}, "context":
+[ { "key": "selector", "operator": "equal", "operand": "source.solidity" } ]
+},
+
+
+{ "keys": ["ctrl+="], "command": "pretty_json_lines", "args":{}, "context":
+[ { "key": "selector", "operator": "equal", "operand": "source.json" } ]
+},
+
+
+{ "keys": ["z", "c"], "command": "fold" },
+{ "keys": ["z", "o"], "command": "unfold" },
+
+{ "keys": ["ctrl+shift+d"], "command": "find_under_expand" },
+
+{ "keys": ["ctrl+n"], "command": "next_view" },
+{ "keys": ["ctrl+p"], "command": "prev_view" },
+
+{ "keys": ["ctrl+u"], "command": "move", "args": {"by": "pages", "forward": false, "extend": false} },
+{ "keys": ["ctrl+d"], "command": "move", "args": {"by": "pages", "forward": true, "extend": false} },
+
+
+  { "keys": ["alt+l"], "command": "resize_pane", "args": {"direction": "out" }},
+  { "keys": ["alt+h"], "command": "resize_pane", "args": {"direction": "in" }},
+
+  { "keys": ["ctrl+g"], "command": "goto_definition"},
+
+{ "keys": ["ctrl+s"], "command": "save_evernote_note", "context": [{"key": "evernote_note"}, {"key": "evernote_has_guid"}] },
+{ "keys": ["ctrl+e"], "command": "revert_to_evernote", "context": [{"key": "evernote_note"}, {"key": "evernote_has_guid"}] },
+{ "keys": ["alt+b"], "command": "cancel_build", "context": [] },
+
+
+
+// open terminus
+{"keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
+            "cwd": "${file_path:${folder}}"}},
+
+// close terminus
+// {"keys": ["ctrl+w"], "command": "terminus_close"},
+
+
+]

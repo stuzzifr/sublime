@@ -1,0 +1,12 @@
+wcwidth/
+pywinpty/
+pyte/
+mdpopups/
+sublimeCodeIntel/
+python-jinja2/
+markupsafe/
+jsonschema/
+zzz*/
+.logs/
+HTML/
+Rails/

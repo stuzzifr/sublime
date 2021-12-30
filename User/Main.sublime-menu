@@ -1,0 +1,24 @@
+[
+    {
+    "caption": "Stuzzi",
+    "mnemonic": "Stuzzi",
+    "id": "stu",
+
+    "children": [
+
+          { "caption": "New View Into File", "command": "clone_file", "id": "" },
+          { "caption": "Open Terminus", "command": "terminus_open", "id": "" },
+
+          { "caption": "Diplay Mayalog", "command": "zi_mayalog", "id": "" },
+          { "caption": "Send to Maya", "command": "send_to_maya", "id": "" },
+
+          { "caption": "DocString", "command": "zi_docstring", "id": "" },
+          { "caption": "Quote Selection", "command": "zi_quote", "id": "" },
+
+          { "caption": "Check Style", "command": "zi_style", "id": "" },
+          // { "caption": "execute black", "command": "zi_black", "id": "" },
+
+
+      ]
+    }
+  ]

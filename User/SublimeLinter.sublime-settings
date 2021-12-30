@@ -1,0 +1,40 @@
+// SublimeLinter Settings - User
+{
+    "lint_mode": "background",
+    "delay": 3,
+    "debug": false,
+
+    "linters": {
+
+        "pydocstyle":{
+           "ignore": "D100,D101,D102,D103,D104,D105,D106,D107,D213,D205,D401,D400,D200,D203,D208",
+
+        },
+
+        "pep8": {
+            // "ignore": ["D50"],
+            "ignore": ["E303"],
+        },
+
+        "pyflakes":{
+            "ignore": ["E303"],
+            // "is set in C:\Users\stu\AppData\Roaming\Sublime Text 3\Packages\User\Flake8Lint.sublime-settings",
+        },
+
+        "flake8": {
+             "args": ["--ignore=E501,E127,E128,W191,E303"],
+            // "args": ["--ignore", "E303"],
+                // "F403",F405,F823,F821,F822,F823,F841,F401,E303"],
+
+        },
+    },
+
+    "paths": {
+        "linux": [],
+        "osx": [],
+        "windows": ["C:/Python27/Scripts/pyflakes.exe"]
+    },
+
+
+}
+

@@ -1,0 +1,2298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"setFoc",
+				"setFocusPolicy	function"
+			],
+			[
+				"setStyle",
+				"setStyleSheet	function"
+			],
+			[
+				"min",
+				"minimumSize	function"
+			],
+			[
+				"norm",
+				"normpath	function"
+			],
+			[
+				"quotient",
+				"quotientSum	statement"
+			],
+			[
+				"quotien",
+				"quotientSum"
+			],
+			[
+				"quoti",
+				"quotientSum"
+			],
+			[
+				"quote",
+				"quotePart"
+			],
+			[
+				"quot",
+				"quotient"
+			],
+			[
+				"impo",
+				"impotRev"
+			],
+			[
+				"sum",
+				"sumInt	statement"
+			],
+			[
+				"2",
+				"2016"
+			],
+			[
+				"flux",
+				"fluxY"
+			],
+			[
+				"fl",
+				"fluxY	statement"
+			],
+			[
+				"annu",
+				"annuTresoBrut	statement"
+			],
+			[
+				"Tres",
+				"TresoNet"
+			],
+			[
+				"mensual",
+				"mensualites"
+			],
+			[
+				"men",
+				"mensualites	function"
+			],
+			[
+				"cout",
+				"coutGlobal	function"
+			],
+			[
+				"class",
+				"Classique	class"
+			],
+			[
+				"QPainter",
+				"QPainterPath	class"
+			],
+			[
+				"QCoor",
+				"QColor	class"
+			],
+			[
+				"setRen",
+				"setRentAvg"
+			],
+			[
+				"displ",
+				"displayGraph	function"
+			],
+			[
+				"hover",
+				"hoverItem	statement"
+			],
+			[
+				"Mglob",
+				"MGlobal	class"
+			],
+			[
+				"right",
+				"rightBB	statement"
+			],
+			[
+				"lef",
+				"leftBB	statement"
+			],
+			[
+				"righ",
+				"rightBB	statement"
+			],
+			[
+				"getS",
+				"getTranslation	function"
+			],
+			[
+				"addE",
+				"addElements	function"
+			],
+			[
+				"MDag",
+				"MDagPath	class"
+			],
+			[
+				"ge",
+				"getDagPath	function"
+			],
+			[
+				"dele",
+				"deleteNode	function"
+			],
+			[
+				"displa",
+				"displayInfo	function"
+			],
+			[
+				"itGIn",
+				"itGInter	statement"
+			],
+			[
+				"Mdag",
+				"MDagPath"
+			],
+			[
+				"interm",
+				"intermediateObject"
+			],
+			[
+				"flagAr",
+				"flagArgumentString	function"
+			],
+			[
+				"kSelec",
+				"kSelectionItem	statement"
+			],
+			[
+				"target",
+				"targetName"
+			],
+			[
+				"getDa",
+				"getDag"
+			],
+			[
+				"WA_Pain",
+				"WA_PaintOnScreen	instance"
+			],
+			[
+				"fill",
+				"fillRect	function"
+			],
+			[
+				"Solid",
+				"SolidPattern	instance"
+			],
+			[
+				"QW",
+				"QWidget	class"
+			],
+			[
+				"strip",
+				"StopIteration	stop"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"vertex",
+				"vertexNameArray"
+			],
+			[
+				"twe",
+				"tweakNode"
+			],
+			[
+				"getSkin",
+				"getSkinnedMesh"
+			],
+			[
+				"mVt",
+				"mVtxBind	param"
+			],
+			[
+				"mvtx",
+				"mVtxPrim	param"
+			],
+			[
+				"percen",
+				"percent	param"
+			],
+			[
+				"mVtx",
+				"mVtxBind	param"
+			],
+			[
+				"mV",
+				"mVtxBind	param"
+			],
+			[
+				"MSc",
+				"MScriptUtil	class"
+			],
+			[
+				"MTrans",
+				"MTransformationMatrix	class"
+			],
+			[
+				"setRot",
+				"setRotation	function"
+			],
+			[
+				"trans",
+				"transBone	statement"
+			],
+			[
+				"getTran",
+				"getTranslation	function"
+			],
+			[
+				"setTran",
+				"setTranslation"
+			],
+			[
+				"setRo",
+				"setRotation	function"
+			],
+			[
+				"rotat",
+				"rotation"
+			],
+			[
+				"setRotat",
+				"setRotatePivot"
+			],
+			[
+				"infl",
+				"influencing"
+			],
+			[
+				"rotate",
+				"rotateBy"
+			],
+			[
+				"mBone",
+				"mBoneMove	statement"
+			],
+			[
+				"getBone",
+				"getBonePivot"
+			],
+			[
+				"getSk",
+				"getSkinnedMesh"
+			],
+			[
+				"vBon",
+				"vBoneDelta	statement"
+			],
+			[
+				"vBone",
+				"vBoneMov	statement"
+			],
+			[
+				"pos",
+				"posFinalInter	statement"
+			],
+			[
+				"posin",
+				"posFinalInter	statement"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"inde",
+				"index	statement"
+			],
+			[
+				"getMesh",
+				"getSkinnedMesh	function"
+			],
+			[
+				"MDa",
+				"MDagPath	class"
+			],
+			[
+				"setCheck",
+				"setChecked"
+			],
+			[
+				"MGL_polygon_off",
+				"MGL_POLYGON_OFFSET_FILL	statement"
+			],
+			[
+				"tran",
+				"transNode	statement"
+			],
+			[
+				"isc",
+				"isChecked	function"
+			],
+			[
+				"load",
+				"loadPlugin	function"
+			],
+			[
+				"MGL_Po",
+				"MGL_POLYGON	statement"
+			],
+			[
+				"Wire",
+				"kWireFrame	statement"
+			],
+			[
+				"MGL_UNsig",
+				"MGL_UNSIGNED_INT	statement"
+			],
+			[
+				"dr",
+				"drawSimple	function"
+			],
+			[
+				"MFNnumer",
+				"MFnNumericData	class"
+			],
+			[
+				"MFnPoint",
+				"MFnPointArrayData	class"
+			],
+			[
+				"oplug",
+				"oPlug	statement"
+			],
+			[
+				"MFNPoin",
+				"MFnPointArrayData	class"
+			],
+			[
+				"fn",
+				"fnVtx	statement"
+			],
+			[
+				"ind",
+				"indArray	statement"
+			],
+			[
+				"MFnData",
+				"MFnPointArrayData"
+			],
+			[
+				"a",
+				"aVtx	statement"
+			],
+			[
+				"MFnnu",
+				"MFnNumericData	class"
+			],
+			[
+				"MFnNumer",
+				"MFnNumericData	class"
+			],
+			[
+				"inval",
+				"invalue	statement"
+			],
+			[
+				"MFnNu",
+				"MFnNumericAttribute	class"
+			],
+			[
+				"ziSurfa",
+				"ZiSurface	class"
+			],
+			[
+				"MFnNum",
+				"MFnNumericData	class"
+			],
+			[
+				"num",
+				"numInf	statement"
+			],
+			[
+				"geo",
+				"geometry"
+			],
+			[
+				"zi",
+				"ZiSurface	class"
+			],
+			[
+				"gl",
+				"glFT	statement"
+			],
+			[
+				"MPoin",
+				"MPoint	class"
+			],
+			[
+				"creator",
+				"creatorUi	function"
+			],
+			[
+				"MPx",
+				"MPxSurfaceShape"
+			],
+			[
+				"speh",
+				"sphere	function"
+			],
+			[
+				"setMe",
+				"setMesh"
+			],
+			[
+				"set",
+				"setMesh"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"inToto",
+				"inToto2	statement"
+			],
+			[
+				"plug",
+				"plugName	statement"
+			],
+			[
+				"nativeWid",
+				"nativeParentWidget"
+			],
+			[
+				"isBr",
+				"isBranching"
+			],
+			[
+				"getKi",
+				"getKind"
+			],
+			[
+				"getSibli",
+				"getSiblingPlug"
+			],
+			[
+				"getIn",
+				"getInPlugged	function"
+			],
+			[
+				"getLabel",
+				"getLabelName"
+			],
+			[
+				"getOutpl",
+				"getOutPlugs	function"
+			],
+			[
+				"getInP",
+				"getInPlugs	function"
+			],
+			[
+				"getOu",
+				"getOutPlugged	function"
+			],
+			[
+				"getI",
+				"getInPlugs	function"
+			],
+			[
+				"getPlug",
+				"getPlugLabel"
+			],
+			[
+				"Ancho",
+				"AnchorViewCenter	instance"
+			],
+			[
+				"resize",
+				"resizeAnchor	function"
+			],
+			[
+				"Zi",
+				"ZiNode	class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/H/X/documents/IMMO/etudes/toiduMonde/complement",
+			"settings":
+			{
+				"buffer_size": 5782,
+				"line_ending": "Windows",
+				"name": "Réf                 secteur                    pri"
+			}
+		},
+		{
+			"file": "/C/Users/stu/Desktop/GO.txt",
+			"settings":
+			{
+				"buffer_size": 750,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/stu/Documents/maya/scripts/stu/mel/acMirrorModeler.mel",
+			"settings":
+			{
+				"buffer_size": 77950,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/stu/Desktop/clean.py",
+			"settings":
+			{
+				"buffer_size": 1387,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/Z/code/python/packages/worldSpace/Bmg/mainBMG.py",
+			"settings":
+			{
+				"buffer_size": 2619,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/Z/code/python/packages/worldSpace/Bmg/Graph.py",
+			"settings":
+			{
+				"buffer_size": 14754,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziInteraction.py",
+			"settings":
+			{
+				"buffer_size": 3104,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziWindows.py",
+			"settings":
+			{
+				"buffer_size": 7742,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/stu/Documents/maya/scripts/stu/python/ziIO.py",
+			"settings":
+			{
+				"buffer_size": 56547,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Vintageous/Vintageous.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/Vintageous/Vintageous.sublime-build",
+				"Vintageous - Test (All)"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "linter",
+		"selected_items":
+		[
+			[
+				"linter",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublime linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"us",
+				"Preferences: Settings - User"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"pyth	",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax p",
+				"Set Syntax: Python"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"syntax pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"bindin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"settin",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"setting",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Repository"
+			],
+			[
+				"pacak",
+				"Package Control: Remove Package"
+			],
+			[
+				"maya",
+				"Preferences: Maya Key Bindings"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst			",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"rmov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove	",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"prefer",
+				"Preferences: Browse Packages"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"mel",
+				"Set Syntax: MEL"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"proj",
+				"Project: Add Folder"
+			],
+			[
+				"bui",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"defau",
+				"Preferences: Settings - Default"
+			],
+			[
+				"sublimeclang",
+				"SublimeLinter: Create Linter Plugin"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"linter en",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"tof",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"instal	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 383.0
+	},
+	"console":
+	{
+		"height": 228.0,
+		"history":
+		[
+			"python",
+			"getdel",
+			"Sending python: \"cmds.sphere\"",
+			"Sending python",
+			"print \"da\"",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"python",
+			"goto_definition",
+			"dir(goto_definition)",
+			"help(goto_definition)",
+			"globals()",
+			":s/tata/titi",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/stu/Documents/maya/scripts",
+		"/C/Users/stu/Documents/maya/scripts/stu",
+		"/C/Users/stu/Documents/maya/scripts/stu/plug",
+		"/C/Users/stu/Documents/maya/scripts/stu/plug/2014",
+		"/C/Users/stu/Documents/maya/scripts/stu/python",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget"
+	],
+	"file_history":
+	[
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziMessage.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziImage.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziInteraction.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziIO.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziNodal.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziField.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziMessage.pyc",
+		"/H/Z/code/python/packages/worldSpace/Bmg/Web.py",
+		"/C/Users/stu/Google Drive/immob2a/note.txt",
+		"/C/Users/stu/Google Drive/immob2a/fiscal.txt",
+		"/H/Z/code/python/packages/worldSpace/Bmg/Epargne.py",
+		"/H/Z/code/python/packages/worldSpace/Bmg/Impots.py",
+		"/H/Z/code/python/packages/worldSpace/Bmg/Pret.py",
+		"/H/Z/code/python/packages/worldSpace/Bmg/Regime.py",
+		"/C/Users/stu/AppData/Local/Temp/Rar$DR15.69246/ZFileUtils_TestZScript.txt",
+		"/C/Users/stu/AppData/Local/Temp/Rar$DR03.083/DLL_Template/Test_zscript.txt",
+		"/C/Users/stu/AppData/Local/Temp/Rar$DR03.083/DLL_Template/main.h",
+		"/C/Users/stu/AppData/Local/Temp/Rar$DR02.701/DLL_Template/main.cpp",
+		"/C/Users/stu/AppData/Local/Temp/Rar$DR03.083/DLL_Template/ZBrush_DLL_Template.dll",
+		"/I/.cm0013",
+		"/I/.cm0012",
+		"/C/Users/stu/AppData/Local/Temp/Rar$DR11.216/VENTE CONDITIONNELLE LOMBARD.HAURE.doc",
+		"/C/Users/stu/Documents/maya/scripts/cometRename.mel",
+		"/C/Users/stu/Documents/maya/scripts/stu/mel/acMirrorModeler.mel",
+		"/C/Users/stu/Desktop/test.m3u",
+		"/C/Users/stu/Desktop/vlcGenera.bat",
+		"/C/Users/stu/Documents/maya/scripts/uvlayout_open.mel",
+		"/C/Users/stu/Downloads/Simul-invest-4-2-2015-Test-sh9076ny.xlsm",
+		"/C/Users/stu/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/stu/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/H/Z/code/python/packages/worldSpace/Bmg/impots.py",
+		"/P/GO.txt",
+		"/P/GO2.txt",
+		"/C/Users/stu/Desktop/duration.py",
+		"/H/Z/code/python/packages/worldSpace/Bmg/Av.py",
+		"/H/Z/prod/backlight/scenes/element/mid/kid_snear.OBJ",
+		"/H/X/documents/IMMO/BIENS/Greneyren/tofs/photos.html",
+		"/H/Z/code/java/myJav.java",
+		"/H/Z/code/java/log.java",
+		"/H/Z/code/java/perso.java",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziVray.py",
+		"/C/Users/stu/AppData/Roaming/Sublime Text 3/Packages/User/stuJava.sublime-build",
+		"/C/Users/stu/AppData/Roaming/Sublime Text 3/Packages/stuJava.sublime-build",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziBakeMat.py",
+		"/I/RECUP/stu/sheets/invest/simuCred.py",
+		"/I/RECUP/stu/sheets/invest/reserve.py",
+		"/C/Users/stu/AppData/Roaming/Sublime Text 3/Packages/Pane Resizer/Pane Resizer.sublime-settings",
+		"/C/Users/stu/AppData/Roaming/Sublime Text 3/Packages/User/Pane Resizer.sublime-settings",
+		"/C/Users/stu/AppData/Roaming/Sublime Text 3/Packages/Pane Resizer/Default (Windows).sublime-keymap",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziBuilder.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziMenu.py",
+		"/C/Users/stu/Google Drive/immob2a/module2/desktop.ini",
+		"/H/Z/code/python/packages/worldSpace/Web/Extract.py",
+		"/C/Users/stu/AppData/Roaming/Sublime Text 3/Packages/User/stuPyth.sublime-build",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziBShape.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/matrix.py",
+		"/H/X/documents/Greneyren/tofs/listing.txt",
+		"/H/Z/code/projectWithUV.cpp",
+		"/C/Users/stu/Documents/maya/scripts/stu/prototype/myCommand.py",
+		"/C/Users/stu/Documents/maya/vrayvfb.xml",
+		"/I/Prefs/Sublime/toGEt",
+		"/H/Z/code/testVim.cpp",
+		"/C/Users/stu/Documents/maya/scripts/misc/requests/models.py",
+		"/C/Users/stu/Documents/maya/scripts/misc/requests/compat.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziButtons.py",
+		"/C/Users/stu/Documents/maya/scripts/wireShape.mel",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziSymmetry",
+		"/C/Users/stu/Documents/maya/scripts/stu/prototype/matrix.py",
+		"/G/RECOVERTOOL/worldSpace/instant-meshes/ext/nanogui/include/nanogui/widget.h",
+		"/G/RECOVERTOOL/worldSpace/instant-meshes/ext/nanogui/include/nanogui/object.h",
+		"/G/RECOVERTOOL/worldSpace/instant-meshes/ext/nanogui/include/nanogui/button.h",
+		"/G/RECOVERTOOL/worldSpace/instant-meshes/ext/nanogui/src/button.cpp",
+		"/C/Users/stu/Documents/maya/scripts/stu/plug/2014/ziPSD.py",
+		"/H/Z/code/APIMayaPLug/mine/ziClosestPoint/ziClosestPoint.cpp",
+		"/C/Program Files/Autodesk/Maya2014/devkit/plug-ins/scripted/animCubeNode.py",
+		"/C/Program Files/Autodesk/Maya2014/devkit/plug-ins/scripted/basicShape.py",
+		"/C/Users/stu/_viminfo",
+		"/C/Users/stu/toto.txt",
+		"/C/Users/stu/.viminfo",
+		"/C/Users/stu/.pdbrc",
+		"/C/Users/stu/toto",
+		"/H/Repository/dneg/code/regr/dnCameraFrustum/testScript.mel",
+		"/D/temp/todel/t.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziPSD.py",
+		"/C/Users/stu/Documents/maya/scripts/misc/extractDeltas.py",
+		"/D/Download/films/Southpaw.2015.TRUEFRENCH.BDRip.x264-MELBA-WwW.FS-Exclue.CoMStuStu.mkv",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziPSDTemp.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/matPartner.py",
+		"/H/Z/code/APIMayaPLug/mine/ziMeshReorder/main.cpp",
+		"/H/Z/code/APIMayaPLug/mine/ziMeshReorder/ziMeshReorder.cpp",
+		"/C/Users/stu/Documents/maya/scripts/misc/nSkinMorph.mel",
+		"/C/Users/stu/Documents/maya/scripts/stu/plug/2014/ziSurface.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziClosestPoint.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziUI/ziClosestUI.py",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziWindows.py",
+		"/C/Users/stu/Documents/maya/scripts/misc/BSpiritCorrectiveShape.mel",
+		"/C/Users/stu/Documents/maya/scripts/misc/geodesicWeight.py",
+		"/C/Users/stu/AppData/Local/Temp/Rar$DR01.833/dish.ini",
+		"/C/Users/stu/AppData/Local/Temp/Rar$DR00.055/widget.py",
+		"/H/Repository/dneg/code/rig/python/pinocchioUiPoses.py",
+		"/H/Repository/dneg/code/rig/python/pinocchioUi.py",
+		"/H/Repository/dneg/code/rig/mel/pinocchioUiPoses.mel",
+		"/H/Repository/dneg/code/2014/python/scriptsBrowser.py",
+		"/H/Repository/Norman/code/1/rigging/body/body.01.py",
+		"/H/Repository/Norman/code/1/modeling/misc/miZoomPanCam.mel",
+		"/H/Repository/Norman/code/1/scripts/vtmDeformerUI.py",
+		"/H/Repository/Norman/code/1/scripts/riglib/psd.py",
+		"/H/Repository/Norman/code/plug-ins/bowPath.py",
+		"/H/Repository/Norman/code/1/vtmDeformer/vtmDeformerUI.py",
+		"/H/Repository/Norman/code/1/animation/GER/scripts/rb_MayaStylin.py",
+		"/H/Repository/Norman/code/1/animation/third_party/tweenMachine/tweenMachine.mel",
+		"/H/Repository/Norman/code/1/animation/third_party/jlCollisionDeformer.py",
+		"/C/Users/stu/Documents/maya/scripts/misc/dslSie_install.mel",
+		"/C/Users/stu/Documents/maya/scripts/misc/dslReverseShape.py",
+		"/C/Users/stu/Documents/maya/scripts/misc/dslReverseShape.pyc",
+		"/C/Users/stu/Documents/maya/scripts/misc/bodyBlend.mel",
+		"/C/Users/stu/Documents/maya/scripts/misc/dslSculptInbetweenEditor.py",
+		"/C/Users/stu/Documents/maya/scripts/misc/dslDeltaOptions.py",
+		"/H/Z/prod/fix/peugeot/scenes/peugeot206.ma",
+		"/C/Users/stu/Documents/maya/scripts/stu/python/ziFindTris.py",
+		"/C/Users/stu/Documents/maya/scripts/misc/cvshapeinverter_plugin.py",
+		"/H/Repository/Norman/code/1/vtmDeformer/vtmTest.py",
+		"/H/Repository/Norman/code/1/fdeformer/fdeformer.cpp",
+		"/H/Repository/Norman/code/1/vtmDeformer/vtmDeformer.cpp",
+		"/H/Repository/Norman/code/1/animan/animan.py",
+		"/H/Repository/Norman/code/1/paie/paie.py",
+		"/H/Repository/Norman/code/1/plug-ins/normanMaya.py",
+		"/H/Repository/Norman/code/1/poseDeformer/license.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"label",
+			"main",
+			"_attr",
+			"attr",
+			"slider",
+			"label",
+			"bound",
+			"x",
+			"posx",
+			"max",
+			"posx",
+			"addAction",
+			"count",
+			"annuRevenu",
+			"tableauAmortissment",
+			"outRegime",
+			"impot",
+			"regime",
+			"chargeDeduc",
+			"interet",
+			"imposable",
+			"annuTresoBrut",
+			"                    ",
+			"outRegime",
+			"total",
+			"annuCapital",
+			"interet",
+			"chargeDeduc",
+			"diff",
+			"cgs",
+			"foncierTax",
+			"sociaux",
+			"bareme",
+			"quotientSum",
+			"tranche",
+			"quotient",
+			"total",
+			"valid",
+			"item",
+			"intert",
+			"fraisE",
+			"interet",
+			"fraiseEntree",
+			"ratio",
+			"components",
+			"regime",
+			"chargeDeduc",
+			"imposable",
+			"path",
+			"output",
+			"0",
+			"interet",
+			"pourcent",
+			"impot",
+			"chargeDeduc",
+			":{}\\",
+			"delta",
+			"imposable",
+			"annuNetCharge",
+			"chargeDeduc",
+			"imposable",
+			"bloom",
+			"imposable",
+			"annuInteret",
+			"restantDu",
+			"annuInteret",
+			"impot",
+			"annuTresoNet",
+			"annuNetCharge",
+			"annuRevenu",
+			"annuTresoNet",
+			"annuInteret",
+			"annuTresoBrut",
+			"capital",
+			"annuTresoBrut",
+			"annuInteret",
+			"interet",
+			"self",
+			"year",
+			"0",
+			"restantDu",
+			"count",
+			"month",
+			"flux",
+			"Flux",
+			"flux",
+			"pret",
+			"flux",
+			"colors",
+			"values",
+			"flux",
+			"Flux",
+			"flux",
+			"Flux",
+			"flux",
+			"interet",
+			"revenu",
+			"annuRevenu",
+			"res",
+			"interet",
+			"res",
+			"revenu",
+			"restant",
+			"Restant",
+			"restant",
+			"Restant",
+			"sunInterets",
+			"interets",
+			"verbose",
+			"mensualites",
+			"assurance",
+			"vacances",
+			"charges",
+			"departement",
+			"math",
+			"cout",
+			"obj",
+			"annees",
+			"_annees",
+			"mois",
+			"mensualites",
+			"duree",
+			"months",
+			"penalites",
+			"font",
+			"color",
+			"10",
+			"width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"greneyren",
+			"bain1",
+			"ATTRSIZE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/H/X/documents/IMMO/etudes/toiduMonde/complement",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4168,
+								4168
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Réf                 secteur                    pri",
+							"highlight_line": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 75
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/stu/Desktop/GO.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"highlight_line": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/stu/Documents/maya/scripts/stu/mel/acMirrorModeler.mel",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34786,
+								34786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MayaSublime/MEL.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 50
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 5045.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/stu/Desktop/clean.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1338,
+								1338
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "",
+							"highlight_line": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 19
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/H/Z/code/python/packages/worldSpace/Bmg/mainBMG.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"highlight_line": false,
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 26
+							},
+							"wrap_width": 100
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/H/Z/code/python/packages/worldSpace/Bmg/Graph.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"highlight_line": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 21
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziInteraction.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								974,
+								974
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/stu/Documents/maya/scripts/stu/python/ziWidget/ziWindows.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 20
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/stu/Documents/maya/scripts/stu/python/ziIO.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2428,
+								2428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 13
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1118.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.691004386186,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 393.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 529.0
+	},
+	"output.vi_out":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "Packages/User/stuPyth.sublime-build",
+	"project": "global.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ziin",
+				"stu\\python\\ziWidget\\ziInteraction.py"
+			],
+			[
+				"zimes",
+				"stu\\python\\ziWidget\\ziMessage.py"
+			],
+			[
+				"ziio",
+				"stu\\python\\ziIO.py"
+			],
+			[
+				"mirror",
+				"stu\\mel\\acMirrorModeler.mel"
+			],
+			[
+				"rename",
+				"cometRename.mel"
+			],
+			[
+				"modeler",
+				"stu\\mel\\acMirrorModeler.mel"
+			],
+			[
+				"uvla",
+				"uvlayout_open.mel"
+			],
+			[
+				"zi",
+				"stu\\python\\ziBakeMat.py"
+			],
+			[
+				"zibuil",
+				"stu\\python\\ziBuilder.py"
+			],
+			[
+				"my",
+				"stu\\prototype\\myCommand.py"
+			],
+			[
+				"but",
+				"stu\\python\\ziWidget\\ziButtons.py"
+			],
+			[
+				"mess",
+				"stu\\python\\ziWidget\\ziMessage.py"
+			],
+			[
+				"bsha",
+				"stu\\python\\ziBShape.py"
+			],
+			[
+				"shape",
+				"wireShape.mel"
+			],
+			[
+				"mirromm",
+				"stu\\mel\\acMirrorModeler.mel"
+			],
+			[
+				"matr",
+				"stu\\python\\matrix.py"
+			],
+			[
+				"matri",
+				"stu\\prototype\\matrix.py"
+			],
+			[
+				"psd",
+				"stu\\plug\\2014\\ziPSD.py"
+			],
+			[
+				"zimess",
+				"stu\\python\\ziWidget\\ziMessage.py"
+			],
+			[
+				"zipsd",
+				"stu\\plug\\2014\\ziPSD.py"
+			],
+			[
+				"zips",
+				"stu\\plug\\2014\\ziPSD.py"
+			],
+			[
+				"zime",
+				"stu\\python\\ziMenu.py"
+			],
+			[
+				"matrix",
+				"stu\\python\\matrix.py"
+			],
+			[
+				"extra",
+				"misc\\extractDeltas.py"
+			],
+			[
+				"ziclos",
+				"stu\\python\\ziUI\\ziClosestUI.py"
+			],
+			[
+				"clos",
+				"stu\\python\\ziClosestPoint.py"
+			],
+			[
+				"myno",
+				"stu\\prototype\\myCommand.py"
+			],
+			[
+				"spirit",
+				"misc\\BSpiritCorrectiveShape.mel"
+			],
+			[
+				"nmo",
+				"misc\\nSkinMorph.mel"
+			],
+			[
+				"blen",
+				"misc\\bodyBlend.mel"
+			],
+			[
+				"bodyb",
+				"misc\\bodyBlend.mel"
+			],
+			[
+				"bspi",
+				"misc\\BSpiritCorrectiveShape.mel"
+			],
+			[
+				"part",
+				"stu\\python\\matPartner.py"
+			],
+			[
+				"win",
+				"stu\\python\\ziWidget\\ziWindows.py"
+			],
+			[
+				"ziwin",
+				"stu\\python\\ziWidget\\ziWindows.py"
+			],
+			[
+				"cvin",
+				"misc\\cvshapeinverter_plugin.py"
+			],
+			[
+				"old",
+				"misc\\OldBSpiritCorrectiveShape.mel"
+			],
+			[
+				"cv",
+				"stu\\python\\cvshapeinverter.py"
+			],
+			[
+				"buil",
+				"stu\\python\\ziBuilder.py"
+			],
+			[
+				"slice",
+				"stu\\python\\ziSlice.py"
+			],
+			[
+				"men",
+				"stu\\python\\ziMenu.py"
+			],
+			[
+				"zifnd",
+				"stu\\python\\ziFindTris.py"
+			],
+			[
+				"myde",
+				"stu\\prototype\\myDeformer.py"
+			],
+			[
+				"mirro",
+				"stu\\mel\\acMirrorModeler.mel"
+			],
+			[
+				"pars",
+				"stu\\python\\ziEngine\\ziParser.py"
+			],
+			[
+				"zipar",
+				"stu\\python\\ziEngine\\ziParser.py"
+			],
+			[
+				"zisu",
+				"stu\\plug\\2014\\ziSurface.py"
+			],
+			[
+				"user",
+				"userSetup.py"
+			],
+			[
+				"zisur",
+				"stu\\plug\\2014\\ziSurface.py"
+			],
+			[
+				"zino",
+				"stu\\python\\ziWidget\\ziNodal.py"
+			],
+			[
+				"mynode",
+				"stu\\prototype\\myNode.py"
+			],
+			[
+				"loca",
+				"stu\\prototype\\myLocator.py"
+			],
+			[
+				"tri",
+				"stu\\python\\ziFindTris.py"
+			],
+			[
+				"bakema",
+				"stu\\python\\ziBakeMat.py"
+			],
+			[
+				"iwba",
+				"stu\\mel\\IWDbake.mel"
+			],
+			[
+				"iwd",
+				"stu\\python\\IWDmanager.py"
+			],
+			[
+				"zibake",
+				"stu\\python\\ziBakeMat.py"
+			],
+			[
+				"zind",
+				"stu\\python\\ziWidget\\ziNodal.py"
+			],
+			[
+				"zifi",
+				"stu\\python\\ziFindTris.py"
+			],
+			[
+				"ziem",
+				"stu\\python\\ziMenu.py"
+			],
+			[
+				"find",
+				"stu\\python\\ziFindTris.py"
+			],
+			[
+				"wind",
+				"stu\\python\\ziWidget\\ziWindows.py"
+			],
+			[
+				"tris",
+				"stu\\python\\ziFindTris.py"
+			],
+			[
+				"zifind",
+				"stu\\python\\ziFindTris.py"
+			],
+			[
+				"zifin",
+				"stu\\python\\ziFindTris.py"
+			],
+			[
+				"io",
+				"stu\\python\\ziIO.py"
+			],
+			[
+				"c",
+				"Cs.mel"
+			],
+			[
+				"cs",
+				"CorrectivS.mel"
+			],
+			[
+				"pixo",
+				"PixoSymShp.mel"
+			],
+			[
+				"zinoda",
+				"stu\\python\\ziWidget\\ziNodal.py"
+			],
+			[
+				"zite",
+				"stu\\python\\ziTexBake.py"
+			],
+			[
+				"zimen",
+				"stu\\python\\ziMenu.py"
+			],
+			[
+				"builder",
+				"stu\\python\\ziBuilder.py"
+			],
+			[
+				"zigene",
+				"stu\\python\\ziCore\\ziGeneric.py"
+			],
+			[
+				"zinod",
+				"stu\\python\\ziWidget\\ziNodal.py"
+			],
+			[
+				"zio",
+				"stu\\python\\ziIO.py"
+			],
+			[
+				"zitex",
+				"stu\\python\\ziTexBake.py"
+			],
+			[
+				"acmir",
+				"stu\\mel\\acMirrorModeler.mel"
+			],
+			[
+				"ftp",
+				"stu\\python\\ziFtp.py"
+			],
+			[
+				"ext",
+				"stu\\python\\extract.py"
+			],
+			[
+				"zift",
+				"stu\\python\\ziFtp.py"
+			],
+			[
+				"ft",
+				"stu\\python\\ziFtp.py"
+			],
+			[
+				"zico",
+				"stu\\python\\ziClosestPoint.py"
+			],
+			[
+				"ziclo",
+				"stu\\python\\ziClosestPoint.py"
+			],
+			[
+				"ziftp",
+				"stu\\python\\ziFtp.py"
+			],
+			[
+				"build",
+				"stu\\python\\ziBuilder.py"
+			],
+			[
+				"zifie",
+				"stu\\python\\ziWidget\\ziField.py"
+			],
+			[
+				"zifiel",
+				"stu\\python\\ziWidget\\ziField.py"
+			],
+			[
+				"messa",
+				"stu\\python\\ziWidget\\ziMessage.py"
+			],
+			[
+				"zibu",
+				"stu\\python\\ziBuilder.py"
+			],
+			[
+				"zib",
+				"stu\\python\\ziBuilder.py"
+			],
+			[
+				"zifil",
+				"stu\\python\\ziWidget\\ziField.py"
+			],
+			[
+				"filed",
+				"misc\\requests\\packages\\urllib3\\fields.py"
+			],
+			[
+				"zbuil",
+				"stu\\python\\ziBuilder.py"
+			],
+			[
+				"widge",
+				"stu\\python\\ziWidget\\ziField.py"
+			],
+			[
+				"delpro",
+				"misc\\requests\\packages\\chardet\\latin1prober.py"
+			],
+			[
+				"mirr",
+				"stu\\python\\ziMirrorDup.py"
+			],
+			[
+				"mirrordu",
+				"stu\\python\\ziMirrorDup.py"
+			],
+			[
+				"zibakem",
+				"stu\\python\\ziBakeMat.py"
+			],
+			[
+				"ziwid",
+				"stu\\python\\ziWidget\\ziWindows.py"
+			],
+			[
+				"setup",
+				"userSetup.py"
+			],
+			[
+				"zibi",
+				"stu\\python\\ziBuilder.py"
+			],
+			[
+				"zmes",
+				"python\\ziWidget\\ziMessage.py"
+			],
+			[
+				"toon",
+				"scripts\\toonDesmooth.mel"
+			],
+			[
+				"ziim",
+				"python\\ziWidget\\ziImage.py"
+			],
+			[
+				"toosn",
+				"scripts\\toonSmooth.mel"
+			],
+			[
+				"smoot",
+				"scripts\\toonSmooth.mel"
+			],
+			[
+				"too",
+				"scripts\\toonSmooth.mel"
+			],
+			[
+				"ftpui",
+				"python\\ziUI\\ziFtpUI.py"
+			],
+			[
+				"zira",
+				"python\\ziWidget\\ziRanges.py"
+			],
+			[
+				"zireet",
+				"scripts\\stu\\python\\ziUI\\ziRetargetUI.py"
+			],
+			[
+				"zirig",
+				"python\\ziUI\\ziRetargetUI.py"
+			],
+			[
+				"zispr",
+				"scripts\\stu\\python\\ziUnity\\ziSprite.py"
+			],
+			[
+				"zisp",
+				"python\\ziUnity\\ziSprite.py"
+			],
+			[
+				"zicol",
+				"python\\ziUI\\ziClosestUI.py"
+			],
+			[
+				"ziwi",
+				"scripts\\stu\\python\\ziWidget\\ziWindows.py"
+			],
+			[
+				"zibui",
+				"python\\ziBuilder.py"
+			],
+			[
+				"zim",
+				"python\\ziMenu.py"
+			],
+			[
+				"zieme",
+				"python\\ziWidget\\ziMessage.py"
+			],
+			[
+				"tex",
+				"python\\ziUI\\ziTexBakeUI.py"
+			],
+			[
+				"mani",
+				"python\\ziWidget\\ziManipImage.py"
+			],
+			[
+				"zitr",
+				"python\\ziFindTris.py"
+			],
+			[
+				"zindo",
+				"python\\ziWidget\\ziWindows.py"
+			],
+			[
+				"slic",
+				"python\\ziSlice.py"
+			],
+			[
+				"butt",
+				"python\\ziWidget\\ziButtons.py"
+			],
+			[
+				"ziman",
+				"python\\ziWidget\\ziManipImage.py"
+			],
+			[
+				"zii",
+				"scripts\\stu\\python\\ziIO.py"
+			],
+			[
+				"zislice",
+				"python\\ziSlice.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 472.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "50",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_last_char_search_command": "vi_f",
+		"_vintageous_last_character_search": "d",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Users\\stu\\Desktop"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

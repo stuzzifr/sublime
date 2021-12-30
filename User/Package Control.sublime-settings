@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"detect_indentation": false,
+	"expand_tabs_on_save": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"Compare Side-By-Side",
+		"Ethereum",
+		"EthereumSoliditySnippets",
+		"Git",
+		// "Jedi - Python autocompletion",
+		"GitGutter",
+		"MayaSublime",
+		"Package Control",
+		// "Python Flake8 Lint",
+		"Pane Resizer",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pycodestyle",
+		"SublimeLinter-pydocstyle",
+		"SublimeLinter-pyflakes",
+		"Terminus",
+		"Theme - Argonaut",
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+}
