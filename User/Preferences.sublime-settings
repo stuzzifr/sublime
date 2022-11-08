@@ -27,13 +27,13 @@
 	"file_tab_style":"rounded",
 
 	"always_show_minimap_viewport": true,
-	"font_size": 8,
+	"font_size": 9,
 	"gutter": true,
 	"ignored_packages":
 	[
 		//ignore for now, will need to find a solution
-		"SublimeCodeIntel",
 		"sublimecodeintel",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 	],
 

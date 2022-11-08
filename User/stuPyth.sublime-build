@@ -1,5 +1,0 @@
-{
-	"cmd": ["python3", "$file"],
-	"shell":true,
-	"selector": "source.python",
-}

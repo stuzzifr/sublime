@@ -79,9 +79,8 @@ class ZiReloadMayaCommand(sublime_plugin.TextCommand):
 
         folders = folders[:-2]
         folders = sorted(folders, reverse=True)
-        module = "{}.{}.{}".format(
-            tokens[-1], ".".join(folders), os.path.basename(fileName).replace(".py", "")
-        )
+        module = "{}.{}.{}".format(tokens[-1], ".".join(folders),
+            os.path.basename(fileName).replace(".py", "") )
 
         cmd = "import {0}\nimport {1}\nreload({1})".format(tokens[-1], module)
         launcher = self.getLauncher()

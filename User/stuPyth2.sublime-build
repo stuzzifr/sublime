@@ -1,0 +1,7 @@
+{
+	"cmd": ["C:/Python27/python", "$file"],
+	"shell":true,
+	"selector": "source.python",
+ "encoding": "utf8",
+ "env": {"PYTHONIOENCODING": "utf8"}
+}
